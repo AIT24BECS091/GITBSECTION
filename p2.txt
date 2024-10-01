@@ -3,3 +3,5 @@ New repository created
 git add
 
 git new branch created
+
+user branch has been created
